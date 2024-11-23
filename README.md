@@ -1,5 +1,5 @@
 # Trabalho-de-Python-RAD
-Trabalho de Python RAD desenvolvido por:
+Trabalho de Python RAD Gerenciador de Consultas Médicas desenvolvido por:
 
 Laís Medeiros Costa Gonçalves - https://github.com/LaisMedeiros02/Trabalho-de-Python-RAD
 
